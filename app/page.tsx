@@ -1,7 +1,7 @@
-import Card from "./components/card";
+import {InviteCard} from "./components/InviteCard";
 
 export default function Home() {
   return (
-    <Card />
+    <InviteCard />
   );
 }
