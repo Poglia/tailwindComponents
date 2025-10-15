@@ -1,7 +1,7 @@
-import {InviteCard} from "./components/InviteCard";
+import { LoginScreen } from "./components/LoginScreen";
 
 export default function Home() {
   return (
-    <InviteCard />
+    <LoginScreen />
   );
 }
